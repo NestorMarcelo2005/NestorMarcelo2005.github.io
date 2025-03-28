@@ -1,10 +1,8 @@
 @font-face {
-    font-family: 'CustomFont';
-    src: url('your-font.woff') format('woff'),
-         url('your-font.ttf') format('truetype'),
-         url('your-font.otf') format('opentype');
+    font-family: 'Esperanza'; 
+    src: url('ES_______.TTF') format('truetype'); 
 }
 
 body {
-    font-family: 'CustomFont', sans-serif;
+    font-family: 'Esperanza', sans-serif;
 }
