@@ -3,6 +3,6 @@
     src: url('ES______.TTF') format('truetype'); 
 }
 
-body {
+h1 {
     font-family: 'Esperanza', sans-serif;
 }
